@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80%" alt="matrix coding"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80%" alt="fun coding gif"/>
 </p>
 
 
