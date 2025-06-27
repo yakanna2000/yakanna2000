@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakanna Kadem</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🧠 AI Enthusiast | 🌐 Web Innovator  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;MERN+Stack+Specialist;DevOps+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,51 +16,20 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm Yakanna – passionate about web development, backend systems, and building scalable full-stack apps. Currently interning at **CodeAlpha** and diving deep into the MERN stack, DevOps, and modern UI design.
-
-I enjoy creating smooth, responsive web interfaces and connecting them to secure and efficient backends. Let's build something great together!
+<img src="https://i.imgur.com/zZ2H2G8.gif" alt="Code Animation" width="100%"/>
 
 ---
 
-### 🧠 Currently Learning
+### 🧠 About Me
 
-- **Frontend**: React.js, Tailwind CSS, Material UI  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Languages**: JavaScript, Java, Python  
-- **DevOps**: Docker, GitHub Actions, Render  
-- **Topics**: REST APIs, E-commerce, Real-time Web Apps
+I'm Yakanna – a passionate full-stack developer, currently interning at **CodeAlpha**. I enjoy building scalable MERN stack applications, diving into DevOps, and making intuitive UI experiences.
 
 ---
 
-### 📬 Contact Me
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:yakannakadem@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-</p>
-
----
-
-### 💼 Let's Collaborate On
-
-<details>
-<summary>Click to expand</summary>
-
-- MERN Stack Applications  
-- Dockerized Web Projects  
-- Real-time Chat or Blog Sites  
-- Internship or Open-Source Projects  
-
-</details>
-
----
-
-### 🛠️ Tools and Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,docker,vscode,figma,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,docker,git,github,vscode,linux,postman,figma" />
 </p>
 
 ---
@@ -73,7 +42,7 @@ I enjoy creating smooth, responsive web interfaces and connecting them to secure
 
 ---
 
-### 🔥 GitHub Streak & Stats
+### 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yakanna2000&theme=radical&hide_border=true" />
@@ -86,11 +55,21 @@ I enjoy creating smooth, responsive web interfaces and connecting them to secure
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Projects Showcase
 
-- [🛍️ E-commerce Store](https://github.com/yakanna2000/simple-ecommerce-store) – Real-time MERN store  
-- [⚙️ ML Labs](https://github.com/YOUR_ML_REPO) – Preprocessing & classification  
-- [🌐 Portfolio Website](https://github.com/YOUR_PORTFOLIO_REPO) – Personal website
+- 🛍️ [E-commerce Store](https://github.com/yakanna2000/simple-ecommerce-store) – Full MERN stack online store  
+- ⚙️ [ML Labs](https://github.com/YOUR_ML_REPO) – Projects using pandas, sklearn, seaborn  
+- 🌐 [Portfolio Website](https://github.com/YOUR_PORTFOLIO_REPO) – React-based personal site
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:yakannakadem@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/yakanna2000"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
