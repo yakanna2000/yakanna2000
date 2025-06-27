@@ -16,7 +16,7 @@ I enjoy creating smooth, responsive web interfaces and connecting them to secure
 
 ### 📊 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yakannakadem&theme=onestar&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yakanna2000&theme=onestar&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -58,15 +58,15 @@ I enjoy creating smooth, responsive web interfaces and connecting them to secure
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakannakadem&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakannakadem&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yakanna2000&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakanna2000&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🔥 Popular Repositories
 
-- [🛍️ E-commerce Store](https://github.com/yakannakadem/simple-ecommerce-store) – Real-time online store  
+- [🛍️ E-commerce Store](https://github.com/yakanna2000/simple-ecommerce-store) – Real-time online store  
 - [⚙️ ML Lab Projects](https://github.com/YOUR_ML_REPO) – Preprocessing, classification, etc.  
 - [📜 Portfolio Website](https://github.com/YOUR_PORTFOLIO_REPO) – Personal website using HTML/CSS/JS or React
 
