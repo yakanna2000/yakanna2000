@@ -16,7 +16,8 @@
 
 ---
 
-<img src="https://i.imgur.com/zZ2H2G8.gif" alt="Code Animation" width="100%"/>
+<img src="https://camo.githubusercontent.com/83de5e2fb8113c1edcfa6701369832c274f0986a0a96ad1cdf44ea49789aea3a/68747470733a2f2f692e696d6775722e636f6d2f7a5a32483247382e676966" alt="Code Animation" width="100%" />
+
 
 ---
 
