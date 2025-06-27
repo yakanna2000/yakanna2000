@@ -16,7 +16,9 @@
 
 ---
 
-<img src="https://camo.githubusercontent.com/83de5e2fb8113c1edcfa6701369832c274f0986a0a96ad1cdf44ea49789aea3a/68747470733a2f2f692e696d6775722e636f6d2f7a5a32483247382e676966" alt="Code Animation" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="developer coding"/>
+</p>
 
 
 ---
