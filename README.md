@@ -34,7 +34,7 @@ I'm Yakanna – a passionate full-stack developer, currently interning at **Code
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,docker,git,github,vscode,linux,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,docker,git,github,vscode,linux" />
 </p>
 
 ---
