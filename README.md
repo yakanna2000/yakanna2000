@@ -64,7 +64,7 @@ I'm Yakanna – a passionate full-stack developer, currently interning at **Code
 
 - 🛍️ [E-commerce Store](https://github.com/yakanna2000/CodeAlpha_ecommerce-project) – Full MERN stack online store  
 - ⚙️ [ML Labs]((https://github.com/yakanna2000/ML_Record) – Projects using pandas, sklearn, seaborn  
-  <!--🌐 [Portfolio Website](https://github.com/YOUR_PORTFOLIO_REPO) – React-based personal site-->
+  🌐 [Portfolio Website](https://portfolio-flax-sigma-62.vercel.app/) – React-based personal site
 - 🛍️ [Socail_Media_platform](https://github.com/yakanna2000/CodeAlpha_Social_media_platform) – Full MERN stack social media  
 
 ---
