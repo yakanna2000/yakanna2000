@@ -73,7 +73,7 @@ I'm Yakanna – a passionate full-stack developer, currently interning at **Code
 
 <p align="center">
   <a href="mailto:yakannakadem@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/yakanna-kadem-87126b254/]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yakanna-kadem-87126b254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yakanna2000"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
