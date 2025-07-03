@@ -62,9 +62,10 @@ I'm Yakanna – a passionate full-stack developer, currently interning at **Code
 
 ### 🚀 Projects Showcase
 
-- 🛍️ [E-commerce Store](https://github.com/yakanna2000/simple-ecommerce-store) – Full MERN stack online store  
-- ⚙️ [ML Labs](https://github.com/YOUR_ML_REPO) – Projects using pandas, sklearn, seaborn  
+- 🛍️ [E-commerce Store](https://github.com/yakanna2000/CodeAlpha_ecommerce-project) – Full MERN stack online store  
+- ⚙️ [ML Labs]((https://github.com/yakanna2000/ML_Record) – Projects using pandas, sklearn, seaborn  
 - 🌐 [Portfolio Website](https://github.com/YOUR_PORTFOLIO_REPO) – React-based personal site
+- 🛍️ [Socail_Media_platform](https://github.com/yakanna2000/CodeAlpha_Social_media_platform) – Full MERN stack social media  
 
 ---
 
@@ -72,7 +73,7 @@ I'm Yakanna – a passionate full-stack developer, currently interning at **Code
 
 <p align="center">
   <a href="mailto:yakannakadem@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/yakanna-kadem-87126b254/]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/yakanna2000"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
